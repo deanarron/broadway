@@ -37,3 +37,6 @@ footer p {
 .hero {
   background-image: url("../images/the-flatiron-building.png");
 }
+.hero h2 {
+  font-size: 23px;
+}
